@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vampire</h1>
 <h3 align="center">A Game Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vampire175" alt="vampire175" /></a> </p>
+
 
 <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" alt="">
 
