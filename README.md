@@ -4,7 +4,7 @@
 
 <img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif" alt="" align="center">
 
-- 🔭 I’m currently working on **Zombie Shooter 3d**
+- 🔭 I’m currently working on **Making games**
 
 - 🌱 I’m currently learning **Unity3d and C#**
 
